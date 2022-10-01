@@ -1,2 +1,28 @@
+This repository contains the code for the paper:
 
-Initial commit
+B. Prasse, and P. Van Mieghem, "Predicting network dynamics without requiring the knowledge of the interaction graph,"
+accepted in Proceedings of the National Academy of Sciences, 2022.
+
+The main functionality of this code is to reproduce the figures in the paper. Hence, instead of a single main file, there are multiple
+Fig_*.mat files which can be run directly to reproduce the corresponding figure(s) in the paper. Please see my comments in the code
+for more information.
+
+Version 1.0, 1 October 2022
+
+COPYRIGHT (c) 2022 Bastian Prasse
+
+Permission to use, copy, modify, and distribute this software for any purpose without fee is hereby granted, provided that this entire
+notice is included in all copies of any software which is or includes a copy or modification of this software and in all copies of the
+supporting documentation for such software. This software is being provided "as is", without any express or implied warranty. In 
+particular, the authors do not make any representation or warranty of any kind concerning the merchantability of this software or its 
+fitness for any particular purpose.
+
+Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged 
+to provide proper attribution to the corresponding paper 
+
+  B. Prasse, and P. Van Mieghem, "Predicting network dynamics without requiring the knowledge of the interaction graph,"
+  accepted in Proceedings of the National Academy of Sciences, 2022. 
+
+and (ideally) also to this code directly,
+
+  B. Prasse. Predicting network dynamics without the graph, v1.0 (2022). github.com/bprasse/Predicting-network-dynamics-without-the-graph/ 
