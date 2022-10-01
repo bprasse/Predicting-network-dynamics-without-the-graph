@@ -1,0 +1,19 @@
+@article{white1986structure,
+  title={The structure of the nervous system of the nematode {C}aenorhabditis elegans},
+  author={White, John G and Southgate, Eileen and Thomson, J Nichol and Brenner, Sydney},
+  journal={Philos Trans R Soc Lond B Biol Sci},
+  volume={314},
+  number={1165},
+  pages={1--340},
+  year={1986}
+}
+@article{chen2006wiring,
+  title={Wiring optimization can relate neuronal structure and function},
+  author={Chen, Beth L and Hall, David H and Chklovskii, Dmitri B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={103},
+  number={12},
+  pages={4723--4728},
+  year={2006},
+  publisher={National Acad Sciences}
+}

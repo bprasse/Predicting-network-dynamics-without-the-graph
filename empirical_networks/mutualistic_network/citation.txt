@@ -1,0 +1,17 @@
+@article{kato1990insect,
+  title={Insect-flower relationship in the primary beech forest of Ashu, Kyoto: an overview of the flowering phenology and the seasonal pattern of insect visits},
+  author={Kato, Makoto and Kakutani, Takehiko and Inoue, Tamiji and Itino, Takao},
+  year={1990},
+  publisher={Contributions from the Biological Laboratory, Kyoto University (1990), 27: 309-375}
+}
+
+@article{rezende2007non,
+  title={Non-random coextinctions in phylogenetically structured mutualistic networks},
+  author={Rezende, Enrico L and Lavabre, Jessica E and Guimar{\~a}es, Paulo R and Jordano, Pedro and Bascompte, Jordi},
+  journal={Nature},
+  volume={448},
+  number={7156},
+  pages={925},
+  year={2007},
+  publisher={Nature Publishing Group}
+}

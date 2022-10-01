@@ -1,0 +1,10 @@
+@article{isella2011s,
+  title={What's in a crowd? {A}nalysis of face-to-face behavioral networks},
+  author={Isella, Lorenzo and Stehl{\'e}, Juliette and Barrat, Alain and Cattuto, Ciro and Pinton, Jean-Fran{\c{c}}ois and Van den Broeck, Wouter},
+  journal={Journal of Theoretical Biology},
+  volume={271},
+  number={1},
+  pages={166--180},
+  year={2011},
+  publisher={Elsevier}
+}
