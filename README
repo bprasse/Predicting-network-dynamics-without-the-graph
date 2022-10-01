@@ -7,6 +7,12 @@ The main functionality of this code is to reproduce the figures in the paper. He
 Fig_*.mat files which can be run directly to reproduce the corresponding figure(s) in the paper. Please see my comments in the code
 for more information.
 
+A good starting point could be to run and inspect the output of:
+
+Fig_3_S5_S6_S7_S8( 1, 100, 200 )
+
+The first argument is the random seed=1, the second argument specifies N=100 nodes, and the third arguments specifies n=200 observations.
+
 Version 1.0, 1 October 2022
 
 COPYRIGHT (c) 2022 Bastian Prasse
