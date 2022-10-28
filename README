@@ -1,7 +1,7 @@
 This repository contains the code for the paper:
 
-B. Prasse, and P. Van Mieghem, "Predicting network dynamics without requiring the knowledge of the interaction graph,"
-accepted in Proceedings of the National Academy of Sciences, 2022.
+  Prasse, B. and P. Van Mieghem, 2022, "Predicting network dynamics without requiring the knowledge of the interaction graph", 
+  Proceedings of the National Academy of Sciences (PNAS), Vol. 119, No. 44, e2205517119. (DOI pnas.2205517119)
 
 The main functionality of this code is to reproduce the figures in the paper. Hence, instead of a single main file, there are multiple
 Fig_*.mat files which can be run directly to reproduce the corresponding figure(s) in the paper. Please see my comments in the code
@@ -26,8 +26,8 @@ fitness for any particular purpose.
 Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged 
 to provide proper attribution to the corresponding paper 
 
-  B. Prasse, and P. Van Mieghem, "Predicting network dynamics without requiring the knowledge of the interaction graph,"
-  accepted in Proceedings of the National Academy of Sciences, 2022. 
+  Prasse, B. and P. Van Mieghem, 2022, "Predicting network dynamics without requiring the knowledge of the interaction graph", 
+  Proceedings of the National Academy of Sciences (PNAS), Vol. 119, No. 44, e2205517119. (DOI pnas.2205517119)
 
 and (ideally) also to this code directly,
 
