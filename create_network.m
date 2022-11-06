@@ -37,9 +37,13 @@ switch random_graph_model
         A = data.A;
         
     case 'human_connectome'
-        data = load([ empirical_network_folder '\human_connectome_project\adjacency_matrix.mat']);
-        A = data.sc_matrix;
-        
+        %HCP data not available, use scale-free network instead:
+        N = 78;
+        m0_BA = 3;
+        m_BA = 3;
+        A = BA( N, m0_BA,  m_BA );
+        disp( 'Warning: Using Barabasi-Albert network for human connectome.')
+                
     case 'WS'
         G_graph = WattsStrogatz( N, K_WS, p_WS );
         A = G_graph.adjacency;
