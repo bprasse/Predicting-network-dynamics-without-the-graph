@@ -32,3 +32,96 @@ to provide proper attribution to the corresponding paper
 and (ideally) also to this code directly,
 
   B. Prasse. Predicting network dynamics without the graph, v1.0 (2022). github.com/bprasse/Predicting-network-dynamics-without-the-graph/ 
+ 
+Furthermore, if you make use of the empirical networks, then you are obliged to provide proper attribution by referring to the corresponding 
+publications which are stated below. All of the networks were accessed via the Konect network collection:
+ 
+@inproceedings{kunegis2013konect,
+  title={Konect: the {K}oblenz network collection},
+  author={Kunegis, J{\'e}r{\^o}me},
+  booktitle={Proceedings of the 22nd International Conference on World Wide Web},
+  pages={1343--1350},
+  year={2013},
+  organization={ACM}
+}
+
+For the Lotka-Volterra dynamics, we considered the Little Rock Lake network:
+
+@article{martinez1991artifacts,
+  title={Artifacts or attributes? {E}ffects of resolution on the {L}ittle {R}ock {L}ake food web},
+  author={Martinez, Neo D},
+  journal={Ecological monographs},
+  volume={61},
+  number={4},
+  pages={367--392},
+  year={1991},
+  publisher={Wiley Online Library}
+}
+
+For the mutualistic population dynamics, we considered the insect-flower network:
+
+@article{kato1990insect,
+  title={Insect-flower relationship in the primary beech forest of Ashu, Kyoto: an overview of the flowering phenology and the seasonal pattern of insect visits},
+  author={Kato, Makoto and Kakutani, Takehiko and Inoue, Tamiji and Itino, Takao},
+  year={1990},
+  publisher={Contributions from the Biological Laboratory, Kyoto University (1990), 27: 309-375}
+}
+@article{rezende2007non,
+  title={Non-random coextinctions in phylogenetically structured mutualistic networks},
+  author={Rezende, Enrico L and Lavabre, Jessica E and Guimar{\~a}es, Paulo R and Jordano, Pedro and Bascompte, Jordi},
+  journal={Nature},
+  volume={448},
+  number={7156},
+  pages={925},
+  year={2007},
+  publisher={Nature Publishing Group}
+}
+
+For the Michaelis-Menten dynamics, we considered the S. Cerevisiae yeast network:
+
+@article{milo2002network,
+  title={Network motifs: simple building blocks of complex networks},
+  author={Milo, Ron and Shen-Orr, Shai and Itzkovitz, Shalev and Kashtan, Nadav and Chklovskii, Dmitri and Alon, Uri},
+  journal={Science},
+  volume={298},
+  number={5594},
+  pages={824--827},
+  year={2002},
+  publisher={American Association for the Advancement of Science}
+}
+
+For the SIS dynamics, we considered the 'Infectious: Stay Away' network:
+
+@article{isella2011s,
+  title={What's in a crowd? {A}nalysis of face-to-face behavioral networks},
+  author={Isella, Lorenzo and Stehl{\'e}, Juliette and Barrat, Alain and Cattuto, Ciro and Pinton, Jean-Fran{\c{c}}ois and Van den Broeck, Wouter},
+  journal={Journal of Theoretical Biology},
+  volume={271},
+  number={1},
+  pages={166--180},
+  year={2011},
+  publisher={Elsevier}
+}
+
+For the Wilson-Cowan neural firing dynamics, we considered the C. Elegans network:
+  
+@article{white1986structure,
+  title={The structure of the nervous system of the nematode {C}aenorhabditis elegans},
+  author={White, John G and Southgate, Eileen and Thomson, J Nichol and Brenner, Sydney},
+  journal={Philos Trans R Soc Lond B Biol Sci},
+  volume={314},
+  number={1165},
+  pages={1--340},
+  year={1986}
+}
+@article{chen2006wiring,
+  title={Wiring optimization can relate neuronal structure and function},
+  author={Chen, Beth L and Hall, David H and Chklovskii, Dmitri B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={103},
+  number={12},
+  pages={4723--4728},
+  year={2006},
+  publisher={National Acad Sciences}
+}
+  
